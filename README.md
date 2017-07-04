@@ -6,8 +6,6 @@
 
 >### 👉在线预览：[点我！！！在线预览，手机浏览或切换浏览器移动调试](https://lijun0.github.io/tencent-kecheng/)
 
-
-## ![动图预览](https://ooo.0o0.ooo/2017/06/21/594a72ea128ef.gif)
 # 描述
 
 ### 前端部分
