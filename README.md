@@ -14,7 +14,7 @@
 * 移动设备兼容：使用flexible.js和rem处理兼容问题
 * Vue Router 处理路由，vue的单页面应用是基于路由和组件的，路由用于设定访问路径，并将路径和组件映射起来
 * axios做ajax请求
-* melement-UI完成构建轮播图等组件
+* element-UI完成构建轮播图等组件
 
 ### 后端部分
 * [mock模拟数据](www.easy-mock.com)好看又好用的模拟数据的平台
