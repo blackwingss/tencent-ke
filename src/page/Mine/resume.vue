@@ -5,7 +5,7 @@
     </header>
     <section class="resume-card">
       <div class="card-header">
-        <img src="http://q2.qlogo.cn/g?b=qq&k=1QkflibppmQa3DsG3fHwVTQ&s=140&t=1483347220" alt="" class="header__avatar">
+        <img src="https://user-gold-cdn.xitu.io/2017/4/22/d91ba2c65cd843207ebb7f77a0bf0210.jpg?imageView2/1/w/100/h/100/q/85/interlace/1" alt="" class="header__avatar">
       </div>
       <h2 class="name">赖金晖</h2>
       <div class="desc">
@@ -14,7 +14,7 @@
         <p class="mail">mail：laijinhui1202@gmail.com</p>
       </div>
       <div class="link-group">
-        <a href="https://github.com/lijun0/tencent" class="github">
+        <a href="https://github.com/blackwingss/tencent-ke" class="github">
           <img src="http://xurenjie.cn:3000/resume/github.png" alt="">
         </a>
         <a href="http://ac-ptf5kdme.clouddn.com/a35aef48ca760c29512b.html" class="resume">
