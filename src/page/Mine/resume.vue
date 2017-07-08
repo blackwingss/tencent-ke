@@ -7,17 +7,17 @@
       <div class="card-header">
         <img src="http://q2.qlogo.cn/g?b=qq&k=1QkflibppmQa3DsG3fHwVTQ&s=140&t=1483347220" alt="" class="header__avatar">
       </div>
-      <h2 class="name">张丽君</h2>
+      <h2 class="name">赖金晖</h2>
       <div class="desc">
-        <p class="wx">微信：lele19950124</p>
-        <p class="tel">电话：17770031748</p>
-        <p class="mail">mail：759651849@qq.com</p>
+        <p class="wx">微信：lxs_nbl</p>
+        <p class="tel">电话：13217001609</p>
+        <p class="mail">mail：laijinhui1202@gmail.com</p>
       </div>
       <div class="link-group">
         <a href="https://github.com/lijun0/tencent" class="github">
           <img src="http://xurenjie.cn:3000/resume/github.png" alt="">
         </a>
-        <a href="http://orxfqlpdb.bkt.clouddn.com/%E5%BC%A0%E4%B8%BD%E5%90%9B%E7%9A%84%E7%AE%80%E5%8E%86%20%282%29.pdf" class="resume">
+        <a href="http://ac-ptf5kdme.clouddn.com/a35aef48ca760c29512b.html" class="resume">
           我的简历
         </a>
       </div>
